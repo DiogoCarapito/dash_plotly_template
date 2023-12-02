@@ -1,5 +1,9 @@
 import dash_bootstrap_components as dbc
-from dash import Dash, html, page_container , page_registry # ,page_registry, Input, Output, State, dcc
+from dash import (
+    Dash,
+    html,
+    page_container,
+)  # , page_registry, Input, Output, State, dcc
 
 
 # Boostrap theme
